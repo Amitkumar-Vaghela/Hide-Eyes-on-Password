@@ -26,7 +26,22 @@ Validation to ensure the username includes an "@" symbol and the password contai
 Playful emoji animation where the emoji hides its eyes when a password is being entered.
 Responsive design for optimal viewing across devices.
 
+# Files
+index.html: Contains the HTML structure of the login page.
+styles.css: Includes the CSS styles for the login page layout and appearance.
+script.js: Contains the JavaScript code for form validation and emoji animation.
 
+# How to Contribute
+If you would like to contribute to this project, follow these steps:
+
+Fork the repository to your GitHub account.
+Clone the forked repository to your local machine.
+Create a new branch for your changes:
+arduino : git checkout -b feature/new-feature
+Make your changes and commit them: git commit -m "Add new feature"
+Push your changes to your fork: git push origin feature/new-feature
+Create a pull request from your forked repository to the original repository.
+ 
 
 ## License
 This project is licensed under the MIT License.
